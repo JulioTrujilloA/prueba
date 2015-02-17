@@ -1,3 +1,3 @@
-<strong>&copy; 2015 | Julio Trujillo Alvarado</strong>
+<br /><strong>&copy; 2015 | Julio Trujillo Alvarado</strong>
 </body>
 </html>

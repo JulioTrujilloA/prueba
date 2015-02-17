@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'httt//www.prueba.com';
+$config['base_url']	= 'http://www.prueba.com/';
 
 /*
 |--------------------------------------------------------------------------
